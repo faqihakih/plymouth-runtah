@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Luna_Bar_Text
+Description=A Simple and Elegant Plymouth that Reflects You
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/luna_bar_text
+ScriptFile=/usr/share/plymouth/themes/luna_bar_text/luna_bar_text.script
